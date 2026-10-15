@@ -1,13 +1,16 @@
 # Renata Polary · Página pessoal
 
-Site estático e responsivo em português, preparado para GitHub Pages. Sem instalação ou compilação.
+Página pessoal de Renata Polary, desenvolvedora júnior, publicada com GitHub Pages.
 
-## Publicar
+## 🌐 Visite meu site
 
-1. Na conta `polaryrenata-maker`, crie ou abra o repositório `polaryrenata-maker.github.io`.
-2. Envie `index.html`, `style.css`, `favicon.svg` e `.nojekyll` para a raiz da branch `main`.
-3. Em **Settings → Pages**, selecione **Deploy from a branch**, branch **main**, pasta **/ (root)** e clique em **Save**.
-4. Aguarde a publicação. O endereço esperado é https://polaryrenata-maker.github.io/.
+**[Abrir polaryrenata-maker.github.io](https://polaryrenata-maker.github.io/)**
+
+Site estático e responsivo em português. Sem instalação ou compilação.
+
+## Publicação
+
+O GitHub Pages publica os arquivos da branch `main`, pasta `/ (root)`. As configurações ficam em **Settings → Pages**.
 
 Documentação: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
 
